@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Django database file
+db.sqlite3
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Static files collected by collectstatic
+/static/
+
+# Media files (user uploads)
+/media/
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Virtual environment
+venv/
+env/
